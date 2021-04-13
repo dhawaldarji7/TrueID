@@ -1,4 +1,4 @@
-# TrueID
+# YouID
 A NFC based unique identification and data management system
 
 This project was developed as the Final Project for my undergraduation at the University of Pune during 2017-2018.
