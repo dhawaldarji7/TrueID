@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/pres"
+            android:title="Your Prescriptions" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/rep"
+            android:title="Your Health Reports" />
+
+        <item
+            android:id="@+id/police"
+            android:icon="@drawable/polrep"
+            android:title="Your Police Reports" />
+
+        <item
+            android:id="@+id/rto"
+            android:icon="@drawable/polrep"
+            android:title="Your RTO Reports" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/pro"
+            android:title="My Profile" />
+        <item
+            android:id="@+id/nav_scan"
+            android:icon="@drawable/anouser"
+            android:title="Get Another User Info" />
+
+    </group>
+
+</menu>

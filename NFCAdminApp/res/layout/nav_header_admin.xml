@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_marginTop="25dp"
+    android:layout_width="250dp"
+    android:layout_height="250dp"
+    android:background="@drawable/drawer_bg"
+    android:layout_gravity="center_horizontal"
+    android:paddingRight="0dp"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark">
+
+
+</LinearLayout>
