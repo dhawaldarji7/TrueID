@@ -1,11 +1,9 @@
 # YouID
 A NFC based unique identification and data management system
 
-This project was developed as the Final Project for my undergraduation at the University of Pune, India during 2017-2018.
+This project was developed as the Final Project for my undergraduation at the University of Pune, India.
 
 NOTE: The project is no longer maintained. The project was built on Andorid Studio and this repository only contains the source files and resources used. 
-
-### This was a very ambitious project and I plan to bring it to life in the near future. If you find it to be interesting and want to get along in the journey, please reach out to me at dhawal.d7@gmail.com.
 
 # What is YouID about?
 
@@ -17,7 +15,7 @@ As we're moving into a digital world, this project aims to move all the essentia
 
 # Future of YouID?
 
-While developing this project, we focussed on storing and accessing of medical, criminal and personal information of a person. But is that it? No!
+While developing this project, we focused on storing and accessing medical, criminal and personal information of a person. But is that it? No!
 
 Our vision for YouID is to make it a all-in-one solution. What does that mean?
 
